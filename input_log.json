@@ -1,0 +1,26 @@
+[
+  {
+    "id": "item-001",
+    "input": {
+      "system": "You are a knowledgeable assistant. The Eiffel Tower is located in Paris, France. It was completed in 1889.",
+      "user": "Where is the Eiffel Tower and when was it built?"
+    },
+    "expected_output": "The Eiffel Tower is in Paris, France, and it was completed in 1889."
+  },
+  {
+    "id": "item-002",
+    "input": {
+      "system": "The capital of Japan is Tokyo. It is known for its modern skyline and traditional temples.",
+      "user": "What is the capital city of Japan?"
+    },
+    "expected_output": "The capital city of Japan is Tokyo."
+  },
+  {
+    "id": "item-003",
+    "input": {
+      "system": "The Great Wall of China stretches over 13,000 miles and was built to protect Chinese states from invasions.",
+      "user": "Tell me something about the Great Wall of China."
+    },
+    "expected_output": "The Great Wall of China was built to protect the country from invasions and is over 13,000 miles long."
+  }
+]

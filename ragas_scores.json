@@ -1,0 +1,20 @@
+[
+  {
+    "id": "item-001",
+    "faithfulness": NaN,
+    "answer_relevancy": NaN,
+    "context_precision": NaN
+  },
+  {
+    "id": "item-002",
+    "faithfulness": NaN,
+    "answer_relevancy": NaN,
+    "context_precision": NaN
+  },
+  {
+    "id": "item-003",
+    "faithfulness": NaN,
+    "answer_relevancy": NaN,
+    "context_precision": NaN
+  }
+]
